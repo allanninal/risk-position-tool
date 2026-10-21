@@ -1,0 +1,6 @@
+cases: 200000
+sized: 149937  (capped at the maximum lot: 4105)
+below the minimum lot (answered 0 + note): 50063
+largest shortfall under the risk, in lot steps: 0.999998 (must stay under 1)
+violations: 0
+RESULT: PASS
